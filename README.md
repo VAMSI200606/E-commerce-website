@@ -46,3 +46,5 @@ CSS3
 JavaScript (Vanilla)
 
 📸 Preview
+
+<img width="1917" height="740" alt="Image" src="https://github.com/user-attachments/assets/4ff887d6-92ae-40fa-bc5c-817726cb5971" />
